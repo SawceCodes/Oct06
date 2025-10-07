@@ -1,5 +1,6 @@
 body {
     background-color: aqua;
+    display: inline ;
 }
 /* The above is used to change BACKGROUND color */
 .abcd {
@@ -10,3 +11,6 @@ body {
 /* the "abcd" is the name refering to the div section that we have in the HTML section to label the area
 we selected to have this change. */
 /* In the live webpage thing it has TWO boxes this is because BOTH are named div "abcd" in the HTML code. */
+h2{
+  display: inline;
+}
